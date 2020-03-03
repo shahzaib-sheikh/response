@@ -1,0 +1,14 @@
+{
+  "name": "response",
+  "version": "0.0.1",
+  "description": "A nodejs server built on express framework for number of different operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shahzaib Sheikh <shahzaib4213@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
